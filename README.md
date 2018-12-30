@@ -9,10 +9,11 @@
 >>print(list1[100] )
 
 Python will throw this error on the output screen:
----------------------------------------------------------------------------
-<b>IndexError                                Traceback (most recent call last)
-<ipython-input-22-af6d2015fa1f> in <module>()
-----> 1 list1[100]
+'''
++---------------------------------------------------------------------------
++<b>IndexError                                Traceback (most recent call last)
++<ipython-input-22-af6d2015fa1f> in <module>()
++----> 1 list1[100]
 
-<b>IndexError: list index out of range
-
++<b>IndexError: list index out of range
+'''
