@@ -6,7 +6,7 @@
 
 >>># Create a new list
 >>>list1 = [1,2,3] ;
->>>print(list1[100] )
+>>print(list1[100] )
 
 Python will throw this error on the output screen:
 
