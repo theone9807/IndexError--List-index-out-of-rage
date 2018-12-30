@@ -14,4 +14,4 @@ Python will throw this error on the output screen:
 <ipython-input-22-af6d2015fa1f> in <module>()
 ----> 1 list1[100]
 
-<b>IndexError: list index out of range<\span>
+<b>IndexError: list index out of range</span>
