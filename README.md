@@ -10,9 +10,9 @@
 
 Python will throw this error on the output screen:
 
----------------------------------------------------------------------------
+<b ; color = "red">---------------------------------------------------------------------------
 <b>IndexError                                Traceback (most recent call last)
 <ipython-input-22-af6d2015fa1f> in <module>()
 ----> 1 list1[100]
 
-<b>IndexError: list index out of range
+<b; color = "red">IndexError: list index out of range
