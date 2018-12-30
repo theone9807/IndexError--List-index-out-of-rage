@@ -11,8 +11,8 @@
 Python will throw this error on the output screen:
 
 ---------------------------------------------------------------------------
-#IndexError                                Traceback (most recent call last)
+<b>IndexError                                Traceback (most recent call last)
 <ipython-input-22-af6d2015fa1f> in <module>()
 ----> 1 list1[100]
 
-#IndexError: list index out of range
+<b>IndexError: list index out of range
